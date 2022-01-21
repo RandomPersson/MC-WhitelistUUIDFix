@@ -1,0 +1,15 @@
+name: WhitelistUUIDFix
+version: 0.0
+description: Fixes UUIDs being changed due to Microsoft account migration.
+api-version: 1.16
+load: STARTUP
+author: RandomPersson
+authors: []
+website: https://discord.gg/RmDbKqq
+
+main: pl.org.mensa.rp.mc.WhitelistUUIDFix.WhitelistUUIDFixPlugin
+database: false
+depend: []
+prefix: 
+softdepend: []
+loadbefore: []
